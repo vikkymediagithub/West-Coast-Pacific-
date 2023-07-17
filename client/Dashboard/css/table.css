@@ -1,0 +1,55 @@
+.table{
+    color: #fff;
+    background-color: #03083e;
+}
+
+h4{
+    color: #332323;
+}
+b{
+    color: #332323;
+}
+p{
+    color: #0f1ab6;
+}
+
+.trans{
+    caption-side: bottom;
+    border-collapse: collapse;
+    background-color: #03083e;
+}
+
+td{
+    color: #fff;
+}
+tr td{
+    color: #fff;
+}
+
+/* .submit {
+    background: #03083e;
+    color: #fff;
+    height: 120%;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+} */
+.Submit{
+    background: #03083e;
+    color: #fff;
+    height: 100%;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.cancel{
+    background: #03083e;
+    color: #fff;
+    height: 100%;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+}
